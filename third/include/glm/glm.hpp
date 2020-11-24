@@ -87,7 +87,7 @@
 /// @brief Experimental features not specified by GLSL specification.
 ///
 /// Experimental extensions are useful functions and types, but the development of
-/// their API and functionality is not necessarily stable. They can change
+/// their API and functionality is not necessarily stable. They can machine
 /// substantially between versions. Backwards compatibility is not much of an issue
 /// for them.
 ///
