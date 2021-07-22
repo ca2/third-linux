@@ -34,6 +34,17 @@
 #ifndef _ID3LIB_GLOBALS_H_
 #define _ID3LIB_GLOBALS_H_
 
+
+//#define _ID3LIB_NAME "id3lib"
+//#define _ID3LIB_VERSION "0.0.0"
+//#define _ID3LIB_FULLNAME "id3 Library"
+//#define _ID3LIB_MAJOR_VERSION 0
+//#define _ID3LIB_MINOR_VERSION 0
+//#define _ID3LIB_PATCH_VERSION 0
+//#define _ID3LIB_INTERFACE_AGE 0
+//#define _ID3LIB_BINARY_AGE 0
+
+
 #include <stdlib.h>
 #include "id3/sized_types.h"
 
